@@ -1,0 +1,42 @@
+10 elements:
+Number 1: Train: cars = 50, speed = 111, distance = 8521.979746, time = 76.774592
+
+Number 2: Train: cars = 3, speed = 826, distance = 17229.265532, time = 20.858675
+
+Number 3: Airplane: range = 6027, capacity = 124, speed = 801, distance = 16067.278744, time = 20.059025
+
+Number 4: Airplane: range = 8204, capacity = 16, speed = 68, distance = 5391.144472, time = 79.281536
+
+Number 5: Train: cars = 35, speed = 574, distance = 8541.099262, time = 14.879964
+
+Number 6: Train: cars = 31, speed = 740, distance = 19112.365885, time = 25.827521
+
+Number 7: Train: cars = 49, speed = 897, distance = 4939.846954, time = 5.507076
+
+Number 8: Train: cars = 7, speed = 456, distance = 8304.267698, time = 18.211113
+
+Number 9: Train: cars = 30, speed = 227, distance = 6064.186854, time = 26.714480
+
+Number 10: Ship: displacement = 3035, type = LINER, speed = 0, distance = 3790.680400, time = 114.869103
+
+Sorted transport:
+10 elements:
+Number 1: Ship: displacement = 3035, type = LINER, speed = 0, distance = 3790.680400, time = 114.869103
+
+Number 2: Airplane: range = 8204, capacity = 16, speed = 68, distance = 5391.144472, time = 79.281536
+
+Number 3: Train: cars = 50, speed = 111, distance = 8521.979746, time = 76.774592
+
+Number 4: Train: cars = 30, speed = 227, distance = 6064.186854, time = 26.714480
+
+Number 5: Train: cars = 31, speed = 740, distance = 19112.365885, time = 25.827521
+
+Number 6: Train: cars = 3, speed = 826, distance = 17229.265532, time = 20.858675
+
+Number 7: Airplane: range = 6027, capacity = 124, speed = 801, distance = 16067.278744, time = 20.059025
+
+Number 8: Train: cars = 7, speed = 456, distance = 8304.267698, time = 18.211113
+
+Number 9: Train: cars = 35, speed = 574, distance = 8541.099262, time = 14.879964
+
+Number 10: Train: cars = 49, speed = 897, distance = 4939.846954, time = 5.507076

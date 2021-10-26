@@ -1,0 +1,11 @@
+2 elements:
+Number 1: Airplane: range = 12, capacity = 34, speed = 11, distance = 11.000000, time = 1.000000
+
+Number 2: Train: cars = 34, speed = 45, distance = 899.000000, time = 19.977778
+
+
+Sorted transport:
+2 elements:
+Number 1: Train: cars = 34, speed = 45, distance = 899.000000, time = 19.977778
+
+Number 2: Airplane: range = 12, capacity = 34, speed = 11, distance = 11.000000, time = 1.000000

@@ -1,0 +1,43 @@
+10 elements:
+Number 1: Ship: displacement = 123, type = TANKER, speed = 0, distance = 5656.560000, time = 4.583922
+
+Number 2: Train: cars = 14, speed = 540, distance = 7004.980000, time = 12.972185
+
+Number 3: Airplane: range = 11200, capacity = 5600, speed = 12000, distance = 24000.240000, time = 2.000020
+
+Number 4: Train: cars = 13, speed = 320, distance = 798.000000, time = 2.493750
+
+Number 5: Train: cars = 8, speed = 240, distance = 670.890000, time = 2.795375
+
+Number 6: Ship: displacement = 130, type = TUGBOAT, speed = 0, distance = 8000.000000, time = 14.109347
+
+Number 7: Ship: displacement = 123, type = TANKER, speed = 0, distance = 5467.800000, time = 8.160896
+
+Number 8: Airplane: range = 12000, capacity = 1500, speed = 14000, distance = 23000.800000, time = 1.642914
+
+Number 9: Train: cars = 4, speed = 390, distance = 654.230000, time = 1.677513
+
+Number 10: Ship: displacement = 134, type = TUGBOAT, speed = 0, distance = 7890.000000, time = 13.915344
+
+
+Sorted transport:
+10 elements:
+Number 1: Ship: displacement = 130, type = TUGBOAT, speed = 0, distance = 8000.000000, time = 14.109347
+
+Number 2: Ship: displacement = 134, type = TUGBOAT, speed = 0, distance = 7890.000000, time = 13.915344
+
+Number 3: Train: cars = 14, speed = 540, distance = 7004.980000, time = 12.972185
+
+Number 4: Ship: displacement = 123, type = TANKER, speed = 0, distance = 5467.800000, time = 8.160896
+
+Number 5: Ship: displacement = 123, type = TANKER, speed = 0, distance = 5656.560000, time = 4.583922
+
+Number 6: Train: cars = 8, speed = 240, distance = 670.890000, time = 2.795375
+
+Number 7: Train: cars = 13, speed = 320, distance = 798.000000, time = 2.493750
+
+Number 8: Airplane: range = 11200, capacity = 5600, speed = 12000, distance = 24000.240000, time = 2.000020
+
+Number 9: Train: cars = 4, speed = 390, distance = 654.230000, time = 1.677513
+
+Number 10: Airplane: range = 12000, capacity = 1500, speed = 14000, distance = 23000.800000, time = 1.642914

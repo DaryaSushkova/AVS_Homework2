@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/project_2.dir/main.cpp.o CMakeFiles/project_2.dir/airplane.cpp.o CMakeFiles/project_2.dir/train.cpp.o CMakeFiles/project_2.dir/ship.cpp.o CMakeFiles/project_2.dir/transport.cpp.o CMakeFiles/project_2.dir/container.cpp.o -o project_2 

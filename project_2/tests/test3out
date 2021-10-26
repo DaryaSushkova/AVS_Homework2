@@ -1,0 +1,19 @@
+4 elements:
+Number 1: Ship: displacement = 150, type = TANKER, speed = 0, distance = 10000.000000, time = 66.666667
+
+Number 2: Train: cars = 11, speed = 123, distance = 456.000000, time = 3.707317
+
+Number 3: Airplane: range = 500, capacity = 700, speed = 10000, distance = 20000.000000, time = 2.000000
+
+Number 4: Ship: displacement = 138, type = TUGBOAT, speed = 0, distance = 7000.000000, time = 12.500000
+
+
+Sorted transport:
+4 elements:
+Number 1: Ship: displacement = 150, type = TANKER, speed = 0, distance = 10000.000000, time = 66.666667
+
+Number 2: Ship: displacement = 138, type = TUGBOAT, speed = 0, distance = 7000.000000, time = 12.500000
+
+Number 3: Train: cars = 11, speed = 123, distance = 456.000000, time = 3.707317
+
+Number 4: Airplane: range = 500, capacity = 700, speed = 10000, distance = 20000.000000, time = 2.000000
